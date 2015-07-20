@@ -221,7 +221,7 @@ angular.module('ui.rCalendar', [])
         return {
             restrict: 'EA',
             replace: true,
-            templateUrl: '../template/rcalendar/calendar.html',
+            templateUrl: contentPath + 'app/template/rcalendar/calendar.html',
             scope: {
                 calendarMode: '=',
                 rangeChanged: '&',

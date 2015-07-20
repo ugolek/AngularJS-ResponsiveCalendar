@@ -1,6 +1,6 @@
 {
   "name": "cti-angular-calendar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A pure AngularJS responsive calendar directive",
   "main": "index.js",
   "scripts": {
